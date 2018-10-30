@@ -89,6 +89,8 @@ a [class*=" icon-"] {
   display: inline;
   /* keeps button heights with and without icons the same */
 
+
+
 }
 .btn [class^="icon-"].icon-large,
 .nav [class^="icon-"].icon-large,
